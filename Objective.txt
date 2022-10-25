@@ -1,0 +1,11 @@
+Fantasy Footbal League Portfolio Project
+****************************************
+1) How many Gameweek finished?
+2) What is the next Gameweek fixture?
+3) Who are all top 10 fpl points players?
+4) Who are all top 10 goal scorer players?
+5) Who are all top 10 goal assists players?
+6) Who are all top 10 clean sheets players?
+7) What is the squad of 15 players for next gameweek?
+8) What is the squad of 15 players for next SIX gameweeks?
+9) Prepare chart for Points per million?
